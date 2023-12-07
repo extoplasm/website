@@ -90,7 +90,7 @@ http.createServer(function (req, res) {
 	} else {
 		res.writeHead(200, {'Content-Type': 'text/html'});
 		console.log('pinged at localhost:8080')
-		let files = ['page.html', 'styles.html']
+		let files = ['login.html', 'styles.html']
 		function read(list) {
 		let itr = 0
 		const handler = function(err, content) {
