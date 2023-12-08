@@ -16,7 +16,7 @@ of the software.
 2. The persons who use the software must not sell any substantial\
 portions of the software as their own. 
 
-3. Any persons using the software for commercial use must obtain\
+3. Any persons using the software for commercial purposes must obtain\
 permission from the author or authors of this software
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,\
