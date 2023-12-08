@@ -1,7 +1,7 @@
-### SIGMA MOMENT GENERAL PUBLIC LICENSE\
-## Version 1, 8 December 2023
+# SIGMA MOMENT GENERAL PUBLIC LICENSE\
+## Version 1, 8 December 2023\
+### Copyright (C) 2023 extoplasm
 
-Copyright (C) 2023 extoplasm\
 Everyone is permitted to copy, distribute and change verbatim \
 copies of this license document.
 
@@ -27,4 +27,4 @@ OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,\
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR\
 OTHER DEALINGS IN THE SOFTWARE.
 
-gigachad sigma male
+*gigachad sigma male*
