@@ -1,5 +1,6 @@
-		SIGMA MOMENT GENERAL PUBLIC LICENSE\
-			Version 1, 8 December 2023\
+### SIGMA MOMENT GENERAL PUBLIC LICENSE\
+## Version 1, 8 December 2023
+
 Copyright (C) 2023 extoplasm\
 Everyone is permitted to copy, distribute and change verbatim \
 copies of this license document.
