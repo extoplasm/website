@@ -5,7 +5,7 @@ const fs = require("fs");
 const stuff = require("./data");
 const login = require("./signin");
 const database = new Map([
-	['tags', '<a href="https://google.com/" target="_blank">placeholder</a>'],
+	['tags', '<a href="https://google.com/" target="_blank">example</a>'],
 ])
 const users = new Map([
 	['admin', 'admin'],
@@ -112,3 +112,4 @@ http.createServer(function (req, res) {
 		read(files);
 	}
 }).listen(8080);
+console.log('listening at port 8080')
